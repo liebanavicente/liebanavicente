@@ -3,8 +3,7 @@
 Desarrollador **full stack junior** que construye con IA. Durante 14 años fui maestro y coordinador TIC, así que además de
 programar sé explicar lo técnico a quien nunca ha programado.
 
-- 🎓 Ahora: Bootcamp Full Stack con IA en [Upgrade Hub](https://www.upgrade-hub.com) y certificado de profesionalidad
-  de Confección y publicación de páginas web.
+- 🎓 Ahora: Bootcamp Full Stack con IA en [Upgrade Hub](https://www.upgrade-hub.com).
 - 🛠️ Trabajo con **React, Next.js, TypeScript, Node.js y Supabase**, y uso **Claude Code** a diario
   (insignias [Claude Code 101](https://academy.claude.com/verify/5d19de20b0954f81da7d6fe4f060e5ec) y
   [Claude Code in Action](https://academy.claude.com/verify/4da8487bb71ae62923a4e62f027bd914) de Anthropic).
